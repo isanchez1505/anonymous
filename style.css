@@ -1,0 +1,283 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+
+/*.luckiest-guy-regular {
+  font-family: "Luckiest Guy", cursive;
+  font-weight: 400;
+  font-style: normal;}
+*/
+
+*{
+    font-family:'Luckiest Guy';
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+}
+
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.head {
+    position: fixed;
+    width: 100%;
+    height: 12%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: rgb(10, 10, 10);
+    z-index: 100;
+}
+
+.navbar {
+    display: flex;
+    margin-right: 1%;
+}
+
+.Logo {
+    margin-left: -10%;
+}
+
+
+.Paradise a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    font-size: 3rem;
+    
+}
+
+.navbar a {
+    display: block;
+    padding: 23px 20px;
+}
+
+.navbar a {
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 23px 20px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+.navbar a:hover {
+    background: rgb(63, 63, 63);
+}
+
+.header {
+    height: 10vh !important;
+}
+
+.banner-contenedor {
+    width: 250%; /* Utilizar el ancho completo del contenedor */
+    height: 550; /* Ajustar la altura del contenedor según tus necesidades */
+    overflow: hidden; /* Ocultar el contenido que se desborde del contenedor */
+}
+
+.banner {
+    display: flex;
+    width: 200%; /* Doble del ancho para mostrar dos imágenes una al lado de la otra */
+    animation: animacion 60s linear infinite; /* Ajustar la duración de la animación según tus preferencias */
+}
+
+.banner img {
+    width: 50%; /* Mostrar cada imagen en la mitad del contenedor */
+    height: 100%; /* Ajustar la altura de la imagen al contenedor */
+    object-fit: cover; /* Ajustar la imagen para que cubra el contenedor */
+}
+
+.imagen-sillas {
+    width: 100%; /* Ajustar el ancho de la imagen al 100% del contenedor padre */
+    height: auto; /* Permitir que la altura se ajuste automáticamente para mantener la proporción */
+    display: block; /* Mostrar la imagen como un bloque para controlar su posición y alineación */
+    margin: 0 auto; /* Centrar la imagen horizontalmente dentro de su contenedor */
+}
+
+.imagen-banner3 {
+    width: 100%; /* Ajustar el ancho de la imagen al 100% del contenedor padre */
+    height: 50vh; /* Permitir que la altura se ajuste automáticamente para mantener la proporción */
+    margin: 0 auto; /* Centrar la imagen horizontalmente dentro de su contenedor */
+}
+
+@keyframes animacion {
+    0% {
+        transform: translateX(0); /* Inicio en posición inicial */
+    }
+    100% {
+        transform: translateX(-50%); /* Desplazar las imágenes hacia la izquierda */
+    }
+}
+  
+.seccion-principal {
+    padding: 0%;
+    height: 23rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+
+}
+
+.title { 
+    margin-bottom: 40px;
+    font-size: 60px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+}
+
+p  { 
+    margin-bottom: 40px;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    padding: 0 100px;
+}
+
+.btn  { 
+    display: inline-block;
+    margin-top: 0%;
+    padding: 10px 40px;
+    border: 2px solid rgb(156, 39, 176);
+    color: rgb(7, 0, 0);
+    text-decoration: none;
+    background: rgb(156, 39, 176);
+}
+
+.btn:hover {
+    background: none;
+} 
+
+.btn-home { 
+    display: flex;
+}
+
+.btn-home { 
+    margin: 0 100%;
+}
+
+.content { 
+    height: 27rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sau { 
+    padding: 30vh;
+    background: rgb(31, 29, 29);
+}
+
+.box-container { 
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.box-container .box { 
+    height: 11rem;
+    width: 17rem;
+    background: rgb(0, 0, 0);
+    text-align : center;
+    border-radius: 1rem;
+    box-shadow: 0 .3 5rem rgba(0, 0 , 0 , .5);
+    margin: 2rem;
+}
+
+.box-container .box i { 
+    height: 3rem;
+    width: 3rem;
+    line-height: 3rem;
+    text-align: center;
+    border-radius: 50%;
+    color: rgb(255, 255, 255);
+    background: rgb(156, 39, 176);
+    font-size: 2rem;
+    margin: 1rem 0;
+
+}
+
+.box-container .box h3 { 
+    font-size: 20px;
+    color: rgb(156, 39, 176);
+}
+
+.box-container .box {  
+    padding: 0 15px;
+    font-size: 16px;
+}
+
+.about { 
+    background: rgb(23, 23, 23);
+}
+
+.price { 
+    background-attachment: fixed;
+    background-size:  cover;
+    text-align: center;
+}
+
+.title1 {
+    font-size: 2rem;
+    color: rgb(245, 245, 245);
+    text-align: center;
+}
+
+.title2 {
+    font-size: 2rem;
+    color: rgb(245, 245, 245);
+    text-align: center;
+}
+
+.title3 {
+    font-size: 2rem;
+    color: rgb(0, 0, 0);
+}
+
+.title4 {
+    font-size: 2rem;
+    color: rgb(245, 245, 245);
+}
+
+.ws img {
+    height: auto;
+    width: 4%;
+    position: fixed;
+    top: 87%;
+    left: 94%;
+    
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-links a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px;
+    
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+
+.footer-info {
+    font-size: 14px;
+    margin-top: 3%;
+}
