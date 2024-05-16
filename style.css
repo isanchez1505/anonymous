@@ -16,13 +16,13 @@
 
 body {
     text-align: center;
-    font-family: sans-serif;
+    font-family: 'luckiest guy';
 }
 
 .head {
     position: fixed;
     width: 100%;
-    height: 12%;
+    height: 10%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -36,18 +36,17 @@ body {
 }
 
 .Logo {
-    position: absolute;
-    top: 17%;
-    left: -10%;
+    margin-left: -10%;
 }
+
 
 .Paradise a {
     text-decoration: none;
     color: rgb(255, 255, 255);
     text-transform: uppercase;
-    font-size: 3rem;
+    font-size: 50px; 
     position: absolute;
-    top: 23%;
+    top: 17%;
     left: 6%;
 }
 
@@ -74,8 +73,8 @@ body {
 }
 
 .banner-contenedor {
-    width: 250%; /* Utilizar el ancho completo del contenedor */
-    height: 550; /* Ajustar la altura del contenedor según tus necesidades */
+    width: 100%; /* Utilizar el ancho completo del contenedor */
+    height: 500px; /* Ajustar la altura del contenedor según tus necesidades */
     overflow: hidden; /* Ocultar el contenido que se desborde del contenedor */
 }
 
@@ -169,7 +168,7 @@ p  {
 }
 
 .sau { 
-    padding: 30vh;
+    padding: 20vh;
     background: rgb(31, 29, 29);
 }
 
@@ -227,6 +226,8 @@ p  {
     font-size: 2rem;
     color: rgb(245, 245, 245);
     text-align: center;
+    position: absolute;
+    top: 66%;
 }
 
 .title2 {
@@ -283,4 +284,102 @@ footer {
 .footer-info {
     font-size: 14px;
     margin-top: 3%;
+}
+.product-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.product-card-uno {
+    width: 200px;
+    padding: 37px;
+    margin: 10px;
+    border: 6px solid rgb(156, 39, 176);
+    border-radius: 50px 0 50px 0;
+    text-align: center;
+    position: absolute;
+    top: 80%;
+    left: 7%;
+}
+
+.product-card-dos {
+    width: 200px;
+    padding: 37px;
+    margin: 10px;
+    border: 6px solid rgb(156, 39, 176);
+    border-radius: 50px 0 50px 0;
+    text-align: center;
+    position: absolute;
+    top: 80%;
+    left: 25%;
+}
+
+.product-card-tres {
+    width: 200px;
+    padding: 37px;
+    margin: 10px;
+    border: 6px solid rgb(156, 39, 176);
+    border-radius: 50px 0 50px 0;
+    text-align: center;
+    position: absolute;
+    top: 80%;
+    left: 43%;
+}
+
+.product-card-cuatro {
+    width: 200px;
+    padding: 37px;
+    margin: 10px;
+    border: 6px solid rgb(156, 39, 176);
+    border-radius: 50px 0 50px 0;
+    text-align: center;
+    position: absolute;
+    top: 80%;
+    left: 61%;
+}
+
+.product-card-cinco {
+    width: 200px;
+    padding: 37px;
+    margin: 10px;
+    border: 6px solid rgb(156, 39, 176);
+    border-radius: 50px 0 50px 0;
+    text-align: center;
+    position: absolute;
+    top: 80%;
+    left: 79%;
+}
+
+
+.product-card img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.product-card h3 {
+    margin: 10px 0;
+}
+
+.product-card p {
+    color: #666;
+}
+
+.product-card .price-uno .price-dos {
+    font-weight: bold;
+    color: #333;
+}
+
+.buy-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.buy-button:hover {
+    background-color: #0056b3;
 }
