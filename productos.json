@@ -1,0 +1,1375 @@
+[
+    {
+        "id": "01",
+        "titulo": "The Phantom Pain",
+        "imagen": "./img/videojuegos/01.jpeg",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 111.00
+    },
+    {
+        "id": "02",
+        "titulo": "The Witcher",
+        "imagen": "./img/videojuegos/02.jpeg",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 111.00
+    },
+    {
+        "id": "03",
+        "titulo": "GTA V",
+        "imagen": "./img/videojuegos/03.jpeg",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 149.00
+    },
+    {
+        "id": "04",
+        "titulo": "Ghost of tsushima",
+        "imagen": "./img/videojuegos/4.jpg",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 279.00
+    },
+    {
+        "id": "05",
+        "titulo": "Wo Long Fallen Dynasty",
+        "imagen": "./img/videojuegos/05.png",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 222.00
+    },
+    {
+        "id": "06",
+        "titulo": "Nioh 2",
+        "imagen": "./img/videojuegos/06.png",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 296.00
+    },
+    {
+        "id": "07",
+        "titulo": "Minecraft",
+        "imagen": "./img/videojuegos/07.png",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 74.00
+    },
+    {
+        "id": "08",
+        "titulo": "Crash",
+        "imagen": "./img/videojuegos/08.png",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 85.50
+    },
+    {
+        "id": "09",
+        "titulo": "FC24",
+        "imagen": "./img/videojuegos/09.png",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 259.00
+    },
+    {
+        "id": "10",
+        "titulo": "Resident Evil 4",
+        "imagen": "./img/videojuegos/10.png",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 74.00
+    },
+    {
+        "id": "11",
+        "titulo": "Street Figther",
+        "imagen": "./img/videojuegos/11.png",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 222.000
+    },
+    {
+        "id": "12",
+        "titulo": "Mad Max",
+        "imagen": "./img/videojuegos/12.png",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 907.00
+    },
+    {
+        "id": "13",
+        "titulo": "Spider-Man 2",
+        "imagen": "./img/videojuegos/13.jpg",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 296.00
+    },
+    {
+        "id": "14",
+        "titulo": "Mass Effect",
+        "imagen": "./img/videojuegos/14.jpeg",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 222.00
+    },
+    {
+        "id": "15",
+        "titulo": "Skyrim",
+        "imagen": "./img/videojuegos/15.jpeg",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 148.00
+    },
+
+    {
+        "id": "16",
+        "titulo": "Uncharted",
+        "imagen": "./img/videojuegos/16.jpeg",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 185.00
+    },
+    {
+        "id": "17",
+        "titulo": "Call of Duty III",
+        "imagen": "./img/videojuegos/17.jpeg",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 247.90
+    },
+    {
+        "id": "18",
+        "titulo": "Bioshock",
+        "imagen": "./img/videojuegos/18.jpeg",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 185.00
+    },
+    {
+        "id": "19",
+        "titulo": "Baldurs Gate",
+        "imagen": "./img/videojuegos/19.jpeg",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 259.00
+    },
+    {
+        "id": "20",
+        "titulo": "God of War",
+        "imagen": "./img/videojuegos/20.jpeg",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 74.00
+    },
+    {
+        "id": "21",
+        "titulo": "Horizon",
+        "imagen": "./img/videojuegos/21.jpg",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 185.00
+    },
+    {
+        "id": "22",
+        "titulo": "Mortal II Kombat",
+        "imagen": "./img/videojuegos/22.jpg",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 103.00
+    },
+    {
+        "id": "23",
+        "titulo": "Destruction Allstars",
+        "imagen": "./img/videojuegos/23.jpg",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 148
+    },
+    {
+        "id": "24",
+        "titulo": "Lords of the Fallen",
+        "imagen": "./img/videojuegos/24.jpg",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 296.00
+    },
+    {
+        "id": "25",
+        "titulo": "Halo",
+        "imagen": "./img/videojuegos/25.png",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 120.00
+    },
+    {
+        "id": "26",
+        "titulo": "The Lord of the Rings Gollum",
+        "imagen": "./img/videojuegos/26.png",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 185.00
+    },
+    {
+        "id": "27",
+        "titulo": "Mortal II Kombat",
+        "imagen": "./img/videojuegos/27.png",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 139.00
+    },
+    {
+        "id": "28",
+        "titulo": "Doom",
+        "imagen": "./img/videojuegos/28.png",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 85.50
+    },
+    {
+        "id": "29",
+        "titulo": "Titanfall 2",
+        "imagen": "./img/videojuegos/29.png",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 55.50
+    },
+    {
+        "id": "30",
+        "titulo": "Everspace 2",
+        "imagen": "./img/videojuegos/30.png",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 362.50
+    },
+    {
+        "id": "31",
+        "titulo": "Starfield",
+        "imagen": "./img/videojuegos/31.png",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 325.50
+    },
+    {
+        "id": "32",
+        "titulo": "Assassins Creed Odyssey",
+        "imagen": "./img/videojuegos/32.png",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 67.00
+    },
+    {
+        "id": "33",
+        "titulo": "Super Mario Bros Wonder",
+        "imagen": "./img/videojuegos/33.png",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 229.00
+    },
+    {
+        "id": "34",
+        "titulo": "Minecraft",
+        "imagen": "./img/videojuegos/34.png",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 229.00
+    },
+    {
+        "id": "35",
+        "titulo": "Mario & Sonic Olympic Games",
+        "imagen": "./img/videojuegos/35.png",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 165.00
+    },
+    {
+        "id": "36",
+        "titulo": "Sonic Forces",
+        "imagen": "./img/videojuegos/36.png",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 148.00
+    },
+    {
+        "id": "37",
+        "titulo": "Princess Peach Showtime",
+        "imagen": "./img/videojuegos/37.png",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 222.00
+    },
+    {
+        "id": "38",
+        "titulo": "Luigis Mansion 3",
+        "imagen": "./img/videojuegos/38.png",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 16
+    },
+    {
+        "id": "39",
+        "titulo": "Plantas VS Zombies",
+        "imagen": "./img/videojuegos/39.png",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 229.00
+    },
+    {
+        "id": "40",
+        "titulo": "Crash",
+        "imagen": "./img/videojuegos/40.png",
+        "categoria": {
+            "nombre": "Videojuegos para PS",
+            "id": "abrigos"
+        },
+        "precio": 170.00
+    },
+
+
+    {
+        "id": "01",
+        "titulo": "Teclado",
+        "imagen": "./img/camisetas/1.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 35.00
+    },
+    {
+        "id": "02",
+        "titulo": "Teclado",
+        "imagen": "./img/camisetas/02.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 109.00
+    },
+    {
+        "id": "03",
+        "titulo": "Teclado",
+        "imagen": "./img/camisetas/03.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 75.00
+    },
+    {
+        "id": "04",
+        "titulo": "Teclado",
+        "imagen": "./img/camisetas/04.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 89.00
+    },
+    {
+        "id": "05",
+        "titulo": "Teclado",
+        "imagen": "./img/camisetas/05.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 99.00
+    },
+    {
+        "id": "06",
+        "titulo": "Teclado",
+        "imagen": "./img/camisetas/06.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 429.00
+    },
+    {
+        "id": "07",
+        "titulo": "Teclado",
+        "imagen": "./img/camisetas/07.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 359.00
+    },
+    {
+        "id": "08",
+        "titulo": "Teclado",
+        "imagen": "./img/camisetas/08.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 405.00
+    },
+    {
+        "id": "09",
+        "titulo": "Mouse",
+        "imagen": "./img/camisetas/11.jpg",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 35.00
+    },
+    {
+        "id": "11",
+        "titulo": "Mouse",
+        "imagen": "./img/camisetas/10.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 18.90
+    },
+    {
+        "id": "12",
+        "titulo": "Mouse",
+        "imagen": "./img/camisetas/12.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 35.00
+    },
+    {
+        "id": "13",
+        "titulo": "Mouse",
+        "imagen": "./img/camisetas/13.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 49.90
+    },
+    {
+        "id": "14",
+        "titulo": "Mouse",
+        "imagen": "./img/camisetas/14.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 79.90
+    },
+    {
+        "id": "15",
+        "titulo": "Mouse",
+        "imagen": "./img/camisetas/15.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 49.90
+    },
+    {
+        "id": "16",
+        "titulo": "Mouse",
+        "imagen": "./img/camisetas/16.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 25.90
+    },
+    {
+        "id": "17",
+        "titulo": "Mouse",
+        "imagen": "./img/camisetas/17.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 35.90
+    },
+    {
+        "id": "18",
+        "titulo": "Audifonos",
+        "imagen": "./img/camisetas/18.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 49.90
+    },
+    {
+        "id": "19",
+        "titulo": "Audifonos Rosa",
+        "imagen": "./img/camisetas/19.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 58.90
+    },
+    {
+        "id": "20",
+        "titulo": "Audifonos",
+        "imagen": "./img/camisetas/20.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 75.90
+    },
+    {
+        "id": "21",
+        "titulo": "Audifonos",
+        "imagen": "./img/camisetas/21.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 99.90
+    },
+    {
+        "id": "22",
+        "titulo": "Audifonos",
+        "imagen": "./img/camisetas/22.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 145.90
+    },
+    {
+        "id": "23",
+        "titulo": "Audifonos",
+        "imagen": "./img/camisetas/23.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 135.90
+    },
+    {
+        "id": "24",
+        "titulo": "Audifonos Female",
+        "imagen": "./img/camisetas/24.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 67.90
+    },
+    {
+        "id": "25",
+        "titulo": "Audifonos",
+        "imagen": "./img/camisetas/26.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 88.90
+    },
+    {
+        "id": "26",
+        "titulo": "Silla Gamer",
+        "imagen": "./img/camisetas/27.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 379.90
+    },
+    {
+        "id": "27",
+        "titulo": "Silla Gamer",
+        "imagen": "./img/camisetas/28.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 459.90
+    },
+    {
+        "id": "28",
+        "titulo": "Silla Gamer",
+        "imagen": "./img/camisetas/29.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 378.90
+    },
+    {
+        "id": "29",
+        "titulo": "Silla Gamer",
+        "imagen": "./img/camisetas/30.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 279.00
+    },
+    {
+        "id": "30",
+        "titulo": "Silla Gamer",
+        "imagen": "./img/camisetas/31.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 679.90
+    },
+    {
+        "id": "31",
+        "titulo": "Silla Gamer",
+        "imagen": "./img/camisetas/32.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 1389.00
+    },
+    {
+        "id": "32",
+        "titulo": "Silla Gamer",
+        "imagen": "./img/camisetas/33.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 1202.00
+    },
+    {
+        "id": "33",
+        "titulo": "Silla Gamer",
+        "imagen": "./img/camisetas/34.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 400.00
+    },
+    {
+        "id": "34",
+        "titulo": "Mando PS4 - SpiderMan",
+        "imagen": "./img/camisetas/35.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 150
+    },
+    {
+        "id": "35",
+        "titulo": "Mando PS4 - Resident Evil",
+        "imagen": "./img/camisetas/36.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 150
+    },
+    {
+        "id": "36",
+        "titulo": "Mando PS4 - Sonic",
+        "imagen": "./img/camisetas/37.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 150
+    },
+    {
+        "id": "37",
+        "titulo": "Mando PS4 - Mario Bros",
+        "imagen": "./img/camisetas/38.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 150
+    },
+    {
+        "id": "38",
+        "titulo": "Mando PS4 -The last of us",
+        "imagen": "./img/camisetas/39.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 150
+    },
+    {
+        "id": "39",
+        "titulo": "Mando PS4 - GOD",
+        "imagen": "./img/camisetas/40.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 150
+    },
+    {
+        "id": "40",
+        "titulo": "Mando PS4 - MIM",
+        "imagen": "./img/camisetas/41.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 150
+    },
+    {
+        "id": "41",
+        "titulo": "Mando PS4 -",
+        "imagen": "./img/camisetas/42.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 150
+    },
+    {
+        "id": "42",
+        "titulo": "Mando PS5 - Sonic",
+        "imagen": "./img/camisetas/43.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 400
+    },
+    {
+        "id": "43",
+        "titulo": "Mando PS5 - Goku",
+        "imagen": "./img/camisetas/44.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 400
+    },
+    {
+        "id": "44",
+        "titulo": "Mando PS5 - GTA",
+        "imagen": "./img/camisetas/45.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 400
+    },
+    {
+        "id": "45",
+        "titulo": "Mando PS5 ",
+        "imagen": "./img/camisetas/46.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 400
+    },
+    {
+        "id": "46",
+        "titulo": "Mando PS5 Fornite",
+        "imagen": "./img/camisetas/47.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 400
+    },
+    {
+        "id": "47",
+        "titulo": "Mando PS5 Rick & Morty",
+        "imagen": "./img/camisetas/48.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 400
+    },
+    {
+        "id": "48",
+        "titulo": "Mando PS5 T he Walking Dead",
+        "imagen": "./img/camisetas/49.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 400
+    },
+    {
+        "id": "49",
+        "titulo": "Mando PS5 El Juego del Calamar",
+        "imagen": "./img/camisetas/50.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 400
+    },
+    {
+        "id": "50",
+        "titulo": "PS5 SpiderMan",
+        "imagen": "./img/camisetas/51.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 800
+    },
+    {
+        "id": "51",
+        "titulo": "PS5 The Last Of Us",
+        "imagen": "./img/camisetas/52.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 800
+    },
+    {
+        "id": "52",
+        "titulo": "PS5",
+        "imagen": "./img/camisetas/53.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 800
+    },
+    {
+        "id": "53",
+        "titulo": "PS5",
+        "imagen": "./img/camisetas/54.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 800
+    },
+    {
+        "id": "54",
+        "titulo": "PS5 Call Of Duty",
+        "imagen": "./img/camisetas/55.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 800
+    },
+    {
+        "id": "55",
+        "titulo": "PS5",
+        "imagen": "./img/camisetas/56.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 800
+    },
+    {
+        "id": "56",
+        "titulo": "PS5",
+        "imagen": "./img/camisetas/57.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 800
+    },
+    {
+        "id": "57",
+        "titulo": "PS5 Joker",
+        "imagen": "./img/camisetas/58.png",
+        "categoria": {
+            "nombre": "Accesorios Gaming",
+            "id": "camisetas"
+        },
+        "precio": 800
+    },
+
+
+
+
+    {
+        "id": "pantalon-01",
+        "titulo": "Case de Contra",
+        "imagen": "./img/pantalones/01.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 10
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Case de Fallout",
+        "imagen": "./img/pantalones/02.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 10
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Case de Mario",
+        "imagen": "./img/pantalones/03.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 10
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Case de Pikachu",
+        "imagen": "./img/pantalones/04.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 10
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Case de Free Fire",
+        "imagen": "./img/pantalones/05.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 10
+    },
+    {
+        "id": "pantalon-06",
+        "titulo": "Case de Metal Slug",
+        "imagen": "./img/pantalones/28.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 10
+    },
+    {
+        "id": "pantalon-07",
+        "titulo": "Case de Halo",
+        "imagen": "./img/pantalones/29.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 10
+    },
+    {
+        "id": "pantalon-08",
+        "titulo": "Alien Vs Depredador",
+        "imagen": "./img/pantalones/30.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 10
+    },
+    {
+        "id": "pantalon-06",
+        "titulo": "Polera Negra de Pikachu",
+        "imagen": "./img/pantalones/09.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 25
+    },
+    {
+        "id": "pantalon-07",
+        "titulo": "Polera de Contra",
+        "imagen": "./img/pantalones/10.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 25
+    },
+    {
+        "id": "pantalon-08",
+        "titulo": "Polera de GTA V",
+        "imagen": "./img/pantalones/11.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 25
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "Polera de Pac Man",
+        "imagen": "./img/pantalones/12.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 25
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "Polera de Mando",
+        "imagen": "./img/pantalones/33.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 25
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "Polera de Minecraft",
+        "imagen": "./img/pantalones/13.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 25
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "Polera de Champiñon",
+        "imagen": "./img/pantalones/14.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 25
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "Polera de Peach",
+        "imagen": "./img/pantalones/15.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 25
+    },
+
+    {
+        "id": "pantalon-09",
+        "titulo": "Camiseta Pokemon",
+        "imagen": "./img/pantalones/20.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 100
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "Camiseta Sonic",
+        "imagen": "./img/pantalones/21.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 100
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "Camiseta Mario Bros",
+        "imagen": "./img/pantalones/23.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 100
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "Camiseta Amongus",
+        "imagen": "./img/pantalones/24.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 100
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "Camiseta Minecraft",
+        "imagen": "./img/pantalones/25.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 100
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "Camiseta Goku",
+        "imagen": "./img/pantalones/26.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 100
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "Camiseta GOW",
+        "imagen": "./img/pantalones/27.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 100
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "Camiseta Paradise Game",
+        "imagen": "./img/pantalones/48.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 100
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "PORTAJOYSTICK CHEWBACCA",
+        "imagen": "./img/pantalones/40.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 50
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "PORTAJOYSTICK SASUKE",
+        "imagen": "./img/pantalones/41.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 50
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "PORTAJOYSTICK GRO 2",
+        "imagen": "./img/pantalones/42.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 50
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "PORTAJOYSTICK SPIDERMAN",
+        "imagen": "./img/pantalones/43.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 50
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "PORTAJOYSTICK GOKU ",
+        "imagen": "./img/pantalones/44.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 50
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "PORTAJOYSTICK KRATOS",
+        "imagen": "./img/pantalones/45.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 50
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "PORTAJOYSTICK NEMESIS",
+        "imagen": "./img/pantalones/46.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 50
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "PORTAJOYSTICK GRO",
+        "imagen": "./img/pantalones/47.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 50
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "Almohada de The last of us",
+        "imagen": "./img/pantalones/50.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 10
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "Almohada de Goku",
+        "imagen": "./img/pantalones/51.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 10
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "Almohada de GOW",
+        "imagen": "./img/pantalones/52.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 10
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "Almohada de Resident Evil",
+        "imagen": "./img/pantalones/53.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 10
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "Almohada de PS4",
+        "imagen": "./img/pantalones/54.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 10
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "Almohada de Jocker",
+        "imagen": "./img/pantalones/55.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 10
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "Almohada de PS5",
+        "imagen": "./img/pantalones/56.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 10
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "Almohada de Sonic",
+        "imagen": "./img/pantalones/57.png",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 10
+    }
+    
+
+    
+
+    
+]
